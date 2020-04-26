@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item android:id="@+id/fac"
+        android:title="Facial"
+        android:icon="@drawable/ic_face_black_24dp"/>
+    <item android:id="@+id/bri"
+        android:title="Bridal"
+        android:icon="@drawable/ic_brush_black_24dp"/>
+    <item android:id="@+id/sty"
+        android:title="Styling"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"/>
+    <item android:id="@+id/beau"
+        android:title="Beauty"
+        android:icon="@drawable/ic_hot_tub_black_24dp"/>
+<item android:id="@+id/work"
+    android:title="Gallery"
+    android:icon="@drawable/ic_slideshow_black_24dp"
+    />
+    <item android:id="@+id/pkgs"
+        android:title="Packages"
+        android:icon="@drawable/ic_storage_black_24dp"/>
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="About us" />
+    <item
+        android:id="@+id/contactus"
+        android:icon="@drawable/ic_phone_black_24dp"
+        android:title="Contact  Us" />
+
+
+</menu>
