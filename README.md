@@ -19,4 +19,29 @@ This is an application for a makeup studio center which showcases
  
  # Snapshots
  
+ <img src="images/ss1.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss2.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss3.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss4.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss5.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss6.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss7.png" width=350 height=500>
+ <br>
+ <br>
+ <img src="images/ss8.png" width=350 height=500>
+ <br>
+ <br>
+ 
  
